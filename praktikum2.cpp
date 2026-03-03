@@ -3,7 +3,7 @@ using namespace std;
 float p,l;
 
 void input (){
-  cout << "masukkan panjangg : " ;
+  cout << "masukkan panjanggg : " ;
   cin >> p;
   cout << "masukkan lebar : " ;
   cin >> l;
